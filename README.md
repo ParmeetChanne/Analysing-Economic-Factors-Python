@@ -2,7 +2,8 @@
 
 ## Overview
 
-This Jupyter Notebook explores economic data analysis using the Federal Reserve Economic Data (FRED) API in Python. The project involves data scraping, data cleaning, and exploration. It includes data retrieval, manipulation, and visualization to analyze various economic indicators, focusing on unemployment rates, participation rates, and their comparison across different U.S. states.
+This Jupyter Notebook involves data scraping, data cleaning, retrieval, manipulation, and visualization to analyze various economic indicators using the Federal Reserve Economic Data (FRED) API in Python. The project focuses on exploring and comparing unemployment rates, labor force participation rates, and other economic metrics across different U.S. states.
+
 
 ## Prerequisites
 
