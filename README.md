@@ -1,14 +1,6 @@
-# Analysing-Economic-Factors-Python
-Here is a jupyter notebook I created for the analysis of economic factors with python using the FRED dataset!
+- Include overview and all the steps, and then include photographs of the plots of each of the steps.
 
-This project involves data scraping, data cleaning and exploration
-
-- Include photographs of the plots
-- Include overview and all the steps
-- Include acknowledgement of FRED Api at last
-- Include all the tech used
-
-# Economic Data Analysis using FRED API and Python
+# Analysis of Economic Data using FRED API and Python
 
 ## Overview
 
