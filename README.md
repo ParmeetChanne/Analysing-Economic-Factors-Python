@@ -1,4 +1,4 @@
-- Include overview and all the steps, and then include photographs of the plots of each of the steps.
+- Include photographs of the plots of each of the steps.
 
 # Analysis of Economic Data using FRED API and Python
 
